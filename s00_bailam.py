@@ -71,7 +71,7 @@ def greeting(hour_str):
       return 'Good evening!'
     if int(hour_str[0:2]) > 12:
       return 'Good evening!'
-    if int(hour_str[0:2] < 12:
+    if int(hour_str[0:2]) < 12:
       return 'Good morning!'
       
   
